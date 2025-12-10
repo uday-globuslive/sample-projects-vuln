@@ -1,0 +1,18 @@
+# .gitignore
+build/
+.gradle/
+*.jar
+*.war
+*.ear
+*.class
+*.classpath
+*.project
+.settings/
+.idea/
+*.iml
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
+gradle.properties
